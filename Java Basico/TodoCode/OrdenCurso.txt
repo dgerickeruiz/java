@@ -1,0 +1,8 @@
+Curso de repaso iniciado el 17/10/2024
+
+1.- HolaMundo
+2.- Variable
+3.- Variable2
+4.- EjercicioLogica1
+5.- CondicionSimpleIf
+
