@@ -17,3 +17,15 @@ Curso de repaso iniciado el 17/10/2024
 6.- CondicionSimpleIfElse
 7.- CondicionAnidadosIfElse
 8.- CondicionalSwitch
+09.- EjercicioIntegrador
+10.- OperadorTernario
+11.- Repetitivas
+12.- RepetitivasDos
+13.- RepetitivasTres
+14.- RepetitivasCuatro
+15.- RepetitivasCinco
+16.- 
+17.- 
+18.- 
+19.- 
+20.- 
